@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World COS2!</h1>
+        <h1>Hello World CFS_Foundation!</h1>
     </body>
 </html>
