@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>COS2 IMMEDIATE FRAMMEWORK DEMO 24</h1>
+        <h1>Sprint3 </h1>
     </body>
 </html>
