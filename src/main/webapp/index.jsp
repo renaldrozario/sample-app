@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Sprint 12156</h1>
+        <h1>Sprint 1</h1>
     </body>
 </html>
